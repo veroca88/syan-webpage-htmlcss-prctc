@@ -1,0 +1,21 @@
+header {
+  background-image: url(/assets/images/univers.jpeg);
+}
+body {
+  background-color: rgba(0, 0, 0, 0.281);
+  color: black;
+}
+.text-white {
+   color: white;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 50px;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   padding-left: 350px;
+}
+.small-image {
+  width: 500px;
+  border-color: rgb(253, 255, 109);
+  border-width: 1px;
+  border-style: solid;
+}
